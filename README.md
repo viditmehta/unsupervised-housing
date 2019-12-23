@@ -1,2 +1,3 @@
-# unsupervised-housing
-Project to perform unsupervised machine learning on mortgage affordability
+# Unsupervised Machine Learning on Housing Data
+
+In this study, I use the mortgage affordability data provided by Zillow https://www.zillow.com/research/data/ to get experience with unsupervised learning methods. Primarily, the objective of the study is to identify if there are systematic patterns in mortgage affordability data based on US geographical regions. Firstly, I use the k-means clustering algorithm to identify possible geographical clusters (I use k=4). Next I also applied dimensionality reduction methods like Principal Component Analysis (PCA) and Manifold Learning (tSNE) to transform and analyze affordability data in reduced dimensions.
